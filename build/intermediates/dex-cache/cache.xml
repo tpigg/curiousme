@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/leezaricci/dev/src/cardboard/CuriousMe/CuriousMe/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/leezaricci/dev/src/cardboard/CuriousMe/CuriousMe/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-7d8179bbae954b83c2e9515c80bc33c21bc63b9e.jar" />
+    </item>
+    <item
+        jar="/Users/leezaricci/dev/src/cardboard/CuriousMe/CuriousMe/libs/panframe-1.9.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="411d66c0ef5fc74f3064ef60842757b5358e0dc6">
+        <dex dex="/Users/leezaricci/dev/src/cardboard/CuriousMe/CuriousMe/build/intermediates/pre-dexed/debug/panframe-1.9-6bed8758addf845aef5ca6a5584d6688f1b5d95a.jar" />
+    </item>
+    <item
+        jar="/Users/leezaricci/dev/src/cardboard/CuriousMe/CuriousMe/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/leezaricci/dev/src/cardboard/CuriousMe/CuriousMe/build/intermediates/pre-dexed/debug/classes-08a05c88d1c62b4fc09ce55deec911008f4c8380.jar" />
+    </item>
+    <item
+        jar="/Users/leezaricci/Applications/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/leezaricci/dev/src/cardboard/CuriousMe/CuriousMe/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-a9d2766a13fc128ce54c25df7fe135fe6e7a813e.jar" />
+    </item>
+
+</items>
